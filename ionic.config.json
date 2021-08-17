@@ -1,0 +1,7 @@
+{
+  "name": "ios_file_picker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

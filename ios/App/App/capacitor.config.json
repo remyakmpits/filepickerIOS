@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ios_file_picker",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
